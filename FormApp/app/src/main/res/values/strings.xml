@@ -1,0 +1,8 @@
+<resources>
+  <string name="app_name">FormApp</string>
+  <string name="enter_name">Enter Name</string>
+  <string name="enter_phone">Enter Phone</string>
+  <string name="enter_email">Enter Email</string>
+  <string name="enter_address">Enter Address</string>
+  <string name="click_to_select_cv">Click To Select CV</string>
+</resources>
